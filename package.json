@@ -1,0 +1,23 @@
+{
+  "name": "base-website",
+  "version": "1.0.0",
+  "description": "a base website with live reload capablity.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkygirl7200/base-website.git"
+  },
+  "author": "Ashley Dickerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkygirl7200/base-website/issues"
+  },
+  "homepage": "https://github.com/linkygirl7200/base-website#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "livereload": "^0.7.0"
+  }
+}
